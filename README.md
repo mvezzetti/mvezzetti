@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mvezzetti
-- 📚 I'm a math and physics student at NCSU with some python computing experience
-- 🌱 I’m currently learning R and matlab
+- 📚 I'm a math and physics student at NCSU
+- 🧩 I do research in fluid dynamics and thin film modeling
+- 💻 I have experience computing in Python, MATLAB, and R
 
 
 <!---
